@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h> // instalação da biblioteca
 
 int main() {
     // variáveis da primeira carta
